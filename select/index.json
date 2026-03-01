@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "風色メロディ",
+  "base_artist": "緒方智絵里 (CV: 大空直美)",
+  "createdAt": "2026-03-01T11:57:03.925603Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "風色メロディ",
+      "artist": "緒方智絵里 (大空直美)",
+      "has_synced": false,
+      "path": "select/pl_01_風色メロディ_緒方智絵里_(大空直美).txt"
+    }
+  ]
+}
